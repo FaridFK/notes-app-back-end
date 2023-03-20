@@ -34,3 +34,5 @@ const {
 } = require('./handler');
 
 module.exports = routes;
+
+console.log();
